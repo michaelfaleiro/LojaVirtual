@@ -1,0 +1,19 @@
+{
+  "name": "lojavirtual",
+  "version": "1.0.0",
+  "description": "Loja Vitual",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelfaleiro/LojaVirtual.git"
+  },
+  "author": "Michael Faleiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelfaleiro/LojaVirtual/issues"
+  },
+  "homepage": "https://github.com/michaelfaleiro/LojaVirtual#readme"
+}
