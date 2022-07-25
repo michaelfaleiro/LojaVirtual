@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/michaelfaleiro/LojaVirtual/issues"
   },
-  "homepage": "https://github.com/michaelfaleiro/LojaVirtual#readme"
+  "homepage": "https://github.com/michaelfaleiro/LojaVirtual#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
